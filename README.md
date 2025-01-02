@@ -4,8 +4,9 @@
 As a data scientist, At a home electronics company that manufactures state-of-the-art smart televisions, we want to develop a cool feature in the smart TV that can recognize five different gestures performed by the user. This feature will help users control the TV without using a remote.
 
 ---
-# Dataset : 
-(Link to dataset[https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL])
+# Dataset
+
+[Link to dataset](https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL)
 
 ## Observations
 
